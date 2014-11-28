@@ -1,4 +1,9 @@
-newby-fun-o-rama
-================
+# First class training website
 
-A basic website by a newby
+## newby-fun-o-rama.com
+
+### Objectives of the poject
+
+* How to host files using github
+* Learn about github
+* Learn about Mac client
